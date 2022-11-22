@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ReactDevAssignment/static/css/main.5a182349.css",
+    "main.js": "/ReactDevAssignment/static/js/main.b9f61912.js",
+    "static/media/bg.jpg": "/ReactDevAssignment/static/media/bg.a8db76e192fc69d53371.jpg",
+    "index.html": "/ReactDevAssignment/index.html",
+    "main.5a182349.css.map": "/ReactDevAssignment/static/css/main.5a182349.css.map",
+    "main.b9f61912.js.map": "/ReactDevAssignment/static/js/main.b9f61912.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a182349.css",
+    "static/js/main.b9f61912.js"
+  ]
+}
